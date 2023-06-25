@@ -1,10 +1,12 @@
-/*C program that prints the size of various types on the computer.
+/*
+ * C program that prints the size of various types on the computer.
  * Where it is compiled and run on.
-*/
+ */
 
 #include <stdio.h>
 
-int main(){
+int main(void)
+{
 	char c;
 	int i;
 	long li;
